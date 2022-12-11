@@ -56,7 +56,9 @@ nav a:active {
     color: white;
 }
 
-
+hr{
+    padding-top: 10px;
+}
 .card {
     background-color: white;
     border-radius: 15px;
