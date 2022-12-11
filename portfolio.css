@@ -48,6 +48,7 @@ h6{
     float: left;
     margin-left: -215px;
     font-weight: 100;
+    position: absolute;
 }
 h7{
     font-size: 35px;
