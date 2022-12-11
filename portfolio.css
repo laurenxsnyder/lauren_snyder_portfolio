@@ -32,19 +32,19 @@ h3{
 
 h4 {
     font-size: 35px;
-    float:right
+    float:left;
 }
 h5{
     font-size: 35px;
-    float:left;
+    float:right;
 }
 h6{
     font-size: 35px;
-    float:right;
+    float:left;
 }
 h7{
     font-size: 35px;
-    float:left;
+    float:right;
 }
 
 nav {
