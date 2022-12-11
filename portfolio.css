@@ -59,7 +59,7 @@ nav a:active {
 .card .avatar {
     width: 100px;
     border-radius: 50%;
-    margin-top: -50px;
+    margin-top: 30px;
     float: left;
 }
 
