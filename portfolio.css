@@ -62,7 +62,7 @@ nav a:active {
     border-radius: 15px;
     margin: 0 auto;
     width: 1000px;
-    text-align: center;
+    text-align: left;
     box-shadow: rgba(0,0,0, 0.1) 0 10px 10px;
     border: 2px solid #aaa;
     height: 500px;
