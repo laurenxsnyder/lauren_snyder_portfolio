@@ -2,7 +2,8 @@ body {
     background: #ccc;
     font-family: Helvetica, sans-serif;
     color: #222;
-    margin-top: 50px;
+    margin-top: 0px;
+    position: sticky;
 }
 
 img {
@@ -62,8 +63,7 @@ h7{
 }
 
 nav {
-    top: 0px;
-    position: sticky;
+   
     background-color: #333;
     overflow: hidden;
     margin-bottom: 50px;
