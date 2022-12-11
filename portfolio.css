@@ -41,6 +41,7 @@ h5{
 h6{
     font-size: 35px;
     float:left;
+    position: relative;
 }
 h7{
     font-size: 35px;
