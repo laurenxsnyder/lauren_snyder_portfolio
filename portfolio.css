@@ -41,6 +41,7 @@ h5{
     float:right;
     font-weight: 100;
     margin-right: 215px;
+    position: absolute;
 }
 h6{
     font-size: 35px;
