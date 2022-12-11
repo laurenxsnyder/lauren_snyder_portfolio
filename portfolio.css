@@ -40,7 +40,7 @@ h5{
     font-size: 35px;
     float:right;
     font-weight: 100;
-    margin-right: 215px;
+    margin-right: -215px;
     
 }
 h6{
@@ -55,7 +55,7 @@ h7{
     font-size: 35px;
     float:right;
     margin-top:270px;
-    margin-right: -215px;
+    margin-right: 215px;
     font-weight: 100;
 
 }
