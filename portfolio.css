@@ -26,6 +26,10 @@ h3{
     margin-left: 15px;
     font-size: 30px;
 }
+a {
+    margin: 50px;
+    text-align: center;
+}
 nav {
     background-color: #333;
     overflow: hidden;
