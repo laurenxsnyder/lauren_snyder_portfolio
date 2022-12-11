@@ -29,6 +29,19 @@ h3{
 .card a {
    
 }
+
+h4 {
+    font-size: 50px;
+}
+h5{
+    font-size: 50px;
+}
+h6{
+    font-size: 50px;
+}
+h7{
+    font-size: 50px;
+}
 nav {
     background-color: #333;
     overflow: hidden;
