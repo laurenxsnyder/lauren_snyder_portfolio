@@ -38,10 +38,9 @@ h4 {
 }
 h5{
     font-size: 35px;
-    float:right;
+    float:left;
     font-weight: 100;
-    margin-right: 215px;
-    
+    margin-left: -215px;
 }
 h6{
     font-size: 35px;
@@ -53,9 +52,9 @@ h6{
 }
 h7{
     font-size: 35px;
-    float:right;
+    float:left;
     margin-top:270px;
-    margin-right: 115px;
+    margin-left: -215px;
     font-weight: 100;
 
 }
