@@ -103,6 +103,7 @@ hr{
     box-shadow: rgba(0,0,0, 0.1) 0 10px 10px;
     border: 2px solid #aaa;
     height: 1350px;
+    margin: 0 auto;
 }
 
 .card .avatar {
