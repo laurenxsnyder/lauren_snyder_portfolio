@@ -34,22 +34,26 @@ h4 {
     font-size: 35px;
     float:left;
     margin-left: 35px;
+    font-weight: 100;
 }
 h5{
     font-size: 35px;
     float:right;
+    font-weight: 100;
 }
 h6{
     font-size: 35px;
     margin-top:270px;
     float: left;
     margin-left: -215px;
+    font-weight: 100;
 }
 h7{
     font-size: 35px;
     float:right;
     margin-top:270px;
     margin-right: 215px;
+    font-weight: 100;
 
 }
 
