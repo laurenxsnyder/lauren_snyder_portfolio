@@ -63,6 +63,7 @@ nav {
     background-color: #333;
     overflow: hidden;
     margin-bottom: 50px;
+    position: sticky;
     
 }
 
