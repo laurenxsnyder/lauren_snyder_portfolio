@@ -2,7 +2,7 @@ body {
     background: #ccc;
     font-family: Helvetica, sans-serif;
     color: #222;
-    margin-top: 50px;
+    margin-top: 0px;
     height: 1200px;
 }
 
@@ -81,9 +81,7 @@ nav {
     height: 125px;
     margin-bottom: 50px;
     position:sticky;
-    top:0;
-    bottom: 0;
-    
+    top:0;  
 }
 
 nav a {
