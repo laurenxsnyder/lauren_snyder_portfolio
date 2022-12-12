@@ -6,6 +6,9 @@ body {
     position: sticky;
 }
 
+img {
+    width: 100%;
+}
 
 h1 {
     margin: 15px 0;
@@ -129,5 +132,5 @@ hr{
     transition: opacity ease-in-out 0.2s
 }
 .photography {
-    width: 100px;
+
 }
