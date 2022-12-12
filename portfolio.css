@@ -9,6 +9,7 @@ body {
 .resume img{
     width: 350px;
     align-content: center;
+    margin-left: 100px;
 }
 .avatar img{
     width: 100%;
