@@ -130,3 +130,6 @@ hr{
     opacity: 0.5;
     transition: opacity ease-in-out 0.2s
 }
+.photography{
+    width: 50px;
+}
