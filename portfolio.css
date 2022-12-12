@@ -31,8 +31,6 @@ h2{
     margin-bottom: -10px;
     font-weight: 100;
     text-align: left;
-    position: sticky;
-    top: 0;
 }
 h3{
     color: white;
@@ -173,4 +171,5 @@ p {
   #navbar{
     position: sticky;
     top: 0;
+    height: 50px;
   }
