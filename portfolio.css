@@ -6,8 +6,11 @@ body {
     position: sticky;
 }
 
-img {
+.resume img{
     width: 100%;
+}
+.avatar img{
+    width: 100%
 }
 
 h1 {
