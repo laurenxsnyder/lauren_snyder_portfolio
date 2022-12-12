@@ -140,3 +140,6 @@ hr{
 .photography img{
     height: 100px;
 }
+img {
+    margin-top: 25px;
+}
