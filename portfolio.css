@@ -7,7 +7,7 @@ body {
 }
 
 img {
-    width: 100%;
+    
 }
 
 h1 {
@@ -112,6 +112,7 @@ hr{
     margin-left: 30px;
     float: left;
     margin-right: 50px;
+    width: 100%;
 }
 
 .contacts {
@@ -129,4 +130,7 @@ hr{
 .contacts li a img:hover{
     opacity: 0.5;
     transition: opacity ease-in-out 0.2s
+}
+.photography {
+    width: 50%;
 }
