@@ -170,3 +170,7 @@ p {
     width: 50%;
     padding: 5px;
   }
+  #navbar{
+    position: sticky;
+    top: 0;
+  }
