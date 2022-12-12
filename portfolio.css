@@ -138,5 +138,5 @@ hr{
     transition: opacity ease-in-out 0.2s
 }
 .photography img{
-    width: 50%;
+    width: 100px;
 }
