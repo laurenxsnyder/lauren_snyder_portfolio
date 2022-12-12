@@ -155,10 +155,13 @@ p {
 }
 
 .row {
-    display: flex;
+    content: "";
+    clear: both;
+    display: table;
   }
   
   .column {
-    flex: 50%;
+    float: left;
+    width: 50%;
     padding: 5px;
   }
