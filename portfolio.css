@@ -8,6 +8,7 @@ body {
 
 .resume img{
     width: 350px;
+    align-content: center;
 }
 .avatar img{
     width: 100%;
